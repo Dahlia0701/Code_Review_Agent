@@ -1,0 +1,6 @@
+# llm model and localhost
+.env
+
+# Python Cache (Messy files we don't need)
+__pycache__/
+*.pyc
