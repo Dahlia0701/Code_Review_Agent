@@ -1,6 +1,6 @@
-# 🛡️ Code Review Agent : Multi-Agent Local AI Auditor
+# 🛡️ Guardian Reviewer : Multi-Agent Local AI Auditor
 
-**Code Review Agent** is a sophisticated, local-first code analysis platform that orchestrates **6 specialized AI agents** to provide deep technical audits, security scans, and pedagogical mentoring. 
+**Guardian Reviewer** is a sophisticated, local-first code analysis platform that orchestrates **7 specialized AI agents** to provide deep technical audits, security scans, and pedagogical mentoring. 
 
 Most AI tools provide a single stream of text; this project simulates a professional **Senior Developer Peer Review** by using multiple personas to evaluate your code from different specialized perspectives.
 This project was built as a learning-focused system to understand how professional code reviews work in real engineering teams.
@@ -34,7 +34,7 @@ Built-in specialized prompts for over 15+ languages, including:
 
 ## 📺 Demo
 
-Check out the **Multi-Agent Code Reviewer** in action:
+Check out the **Guardian Reviewer** in action:
 
 <div align="center">
   <video src=https://github.com/user-attachments/assets/32041ff8-e5a4-4258-b197-7f8e4b418780 width="100%" controls>
@@ -113,7 +113,7 @@ If you are running the AI on a different machine (like a dedicated home server o
 ## 📂 Project Structure
 
 ```text
-code_review_agent/               
+GUARDIAN_REVIEWER/               
 ├── core/
 |   ├── app.py            # Streamlit UI & orchestration logic
 │   └── api_client.py     # Ollama API connection
