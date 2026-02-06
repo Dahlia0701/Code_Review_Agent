@@ -32,6 +32,22 @@ Built-in specialized prompts for over 15+ languages, including:
 
 ---
 
+## 📺 Demo
+
+Check out the **Multi-Agent Code Reviewer** in action:
+
+<div align="center">
+  <video src=https://github.com/user-attachments/assets/32041ff8-e5a4-4258-b197-7f8e4b418780 width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+### 📸 What's happening in the Demo?
+1. **Source Input:** We paste a Php script with a deliberate security flaw and poor variable naming.
+2. **Parallel Analysis:** The 6 agents (Context, Bug, Style, etc.) trigger simultaneously, creating a comprehensive report.
+3. **The Score:** The Scoring Auditor gives a metric based on the severity of the findings.
+4. **The Fix:** We click the **Master Architect** button to receive a refactored, secure version of the code.
+
 ## ⚙️ Model Information & Performance
 
 This project is built to be **Privacy-First** and **Hardware-Accessible**.
