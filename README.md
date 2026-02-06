@@ -22,7 +22,7 @@ Each agent operates with its own specific logic and persona:
 | **Scoring Auditor**      | Reviews all agent findings and assigns an objective quality score (0–100) |
 
 ### 🛠️ Master Architect Optimization
-Beyond just finding issues, the **Master Architect** agent synthesizes all feedback to generate a fully optimized, production-ready version of your code. You can compare the "Original" and "Improved" versions side-by-side.
+Beyond just finding issues, the **Master Architect agent** synthesizes all feedback to generate a fully optimized, production-ready version of your code. You can compare the "Original" and "Improved" versions side-by-side.
 
 ### 🌐 Wide Language Support
 Built-in specialized prompts for over 15+ languages, including:
