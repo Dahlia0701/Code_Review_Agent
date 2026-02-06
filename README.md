@@ -48,6 +48,8 @@ Check out the **Multi-Agent Code Reviewer** in action:
 3. **The Score:** The Scoring Auditor gives a metric based on the severity of the findings.
 4. **The Fix:** We click the **Master Architect** button to receive a refactored, secure version of the code.
 
+--- 
+
 ## ⚙️ Model Information & Performance
 
 This project is built to be **Privacy-First** and **Hardware-Accessible**.
