@@ -3,6 +3,7 @@
 **Code Review Agent** is a sophisticated, local-first code analysis platform that orchestrates **6 specialized AI agents** to provide deep technical audits, security scans, and pedagogical mentoring. 
 
 Most AI tools provide a single stream of text; this project simulates a professional **Senior Developer Peer Review** by using multiple personas to evaluate your code from different specialized perspectives.
+This project was built as a learning-focused system to understand how professional code reviews work in real engineering teams.
 
 ---
 
